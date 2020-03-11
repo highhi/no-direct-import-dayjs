@@ -1,6 +1,6 @@
 {
   "name": "no-direct-import-dayjs",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "rules/no-direct-import-dayjs",
   "license": "MIT",
   "scripts": {
